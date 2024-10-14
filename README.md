@@ -31,7 +31,8 @@ Welcome to the **NASA App**! This web application serves as an educational platf
 
   ## Live Demo
 
-You can view the live version of the NASA App [here][[https://tejas-007-11.github.io/NASA-APP/]].
+You can view the live version of the NASA App [here](https://tejas-007-11.github.io/NASA-APP/).
+
 
 ## Installation
 
