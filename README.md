@@ -50,8 +50,9 @@ Usage
 NOTE: Use android mobile phone to download the AR app.
 As it is third party app your device asks permission to downlaod,it's completely safe downloading our app.
 
- License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Tejas-007-11/NASA-APP/raw/refs/heads/main/LICENSE) file for details.
 
 
 Contact
