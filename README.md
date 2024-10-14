@@ -29,14 +29,18 @@ Welcome to the **NASA App**! This web application serves as an educational platf
 - **Unity Engine (C#)**: Used to develop the augmented reality experience.
 - **APIs**: Leveraging APIs for data retrieval and chatbot integration.
 
+  ## Live Demo
+
+You can view the live version of the NASA App [here]([https://tejas-007-11.github.io/NASA-APP/]).
+
 ## Installation
 
 To run the NASA App locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/nasa-app.git
-2. cd nasa-app
+   cd nasa-app
 3. Open index.html in your web browser.
 Usage
 -Open the application in your web browser to access all features.
